@@ -1,0 +1,24 @@
+{
+  "name": "myapi",
+  "version": "1.0.0",
+  "description": "my projuct pritc",
+  "main": "index.js",
+  "scripts": {
+    "test": "js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "js",
+    "nodejs"
+  ],
+  "author": "manish pandey",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongodb": "^4.7.0"
+  }
+}
